@@ -1,0 +1,101 @@
+SISTEMA DE RECONOCIENTO FACIAL PARA PERSONAS DESAPARECIDAS
+POLICIA NACIONAL
+
+<oliver>
+
+- Introducción y/o descripción de la empresa seleccionada 
+
+	1. Descripcion de la empresa
+	2. Proceso de negocio que actualmente tiene la empresa
+	3. Problemas y retos que presenta actualmente la empresa
+
+- Nombre y objetivo del sistema a desarrollar
+
+	1. Nombre del proyecto
+	2. problematicas que resuelve
+	3. Objetivos a alcansar durante el desarrollo
+	4. Alcance del Proyecto
+
+- Plan a ejecutar
+
+	1. acciones generales a seguir para lograr los objetivos
+	(descripcion general de lo que se hara)
+
+</oliver>
+<carlos>
+
+- Los requerimientos de este sistema
+
+	1. Requerimientos fisicos (servidor, ram, memoria, hosting)
+	2. Recursos Humanos que den mantenimiento.
+	3. Sistema operativo del servidor.
+	4. Navegador, pc del cliente que lo usara...
+
+- Metodología utilizada
+
+	1. Scrum, cascada o espiral, scrum kanban para las tareas.
+	2. Division de tiempo y recursos economicos en microsoft project.
+
+</carlos>
+
+(Ejemplos concretos de lo que se hara)
+
+<carlos>
+
+FASE DE ANALISIS
+
+	1.- Levantamiento de Requerimientos
+
+		1.1- Entrevistas
+		1.2- Cuestionarios
+		1.3- Observacion, bitacora de la observacion como conclusion y que 		     problemas que se detectaron.
+
+	2.- Conclusion de requerimientos
+	3.- Carta de Compromiso
+	4.- Presupuesto y Tiempo planeado
+
+FASE DE DISEÑO
+
+	1. Diagrama de Bases de datos, Relacional
+	2. Diagrama de Clases
+	3. Division de Tareas y Requerimientos (Microsoft Projects)
+	4. Tecnologias a utilizar.
+	5. Muck Ups
+	
+FASE DE DESARROLLO
+
+	1. Documentar puntualmente el proceso de desarrollo
+		1.1- supervision y seguimiento del equipo.
+		1.2- meets diarios segun establece scrum	
+		1.3- reuniones con el cliente para presentacion del progreso y 			retroalimentacion cada 2 semanas
+
+</carlos>
+<oliver>
+		
+
+FASE DE INTEGRACION Y PRUEBAS
+
+	1.- Escenarios de pruebas
+
+FASE DE DOCUMENTACION
+
+	1.- Describir la metodologia a utilizar para documentar
+	2.- pasos a seguir para documentar el codigo
+	3.- manual de usuario (ya esta hecho)
+	4.- manual tecnico (ya esta hecho)
+	5.- capacitaciones de los clientes y usuarios finales.
+
+FASE DE IMPLEMENTACION Y SEGUIMIENTO
+
+	1.- describir tecnologias a utilizar para el deployment (google cloud 	build) 
+	2.-  
+
+	1.- descripcion puntual del trabajo del equipo de soporte tecnico 
+	2.- descripcion del flujo de reporte de errores y necesidades del usuario
+	(reporte, seguimiento, soluciona, prueba, deployea)
+	3.- cobral lo cualto mensual y proceso de facturacion
+
+</oliver>
+
+<carlos>PPT</carlos>
+<oliver>Video</oliver>
