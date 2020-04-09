@@ -88,12 +88,10 @@ FASE DE DOCUMENTACION
 FASE DE IMPLEMENTACION Y SEGUIMIENTO
 
 	1.- describir tecnologias a utilizar para el deployment (google cloud 	build) 
-	2.-  
-
-	1.- descripcion puntual del trabajo del equipo de soporte tecnico 
-	2.- descripcion del flujo de reporte de errores y necesidades del usuario
+	2.- descripcion puntual del trabajo del equipo de soporte tecnico 
+	3.- descripcion del flujo de reporte de errores y necesidades del usuario
 	(reporte, seguimiento, soluciona, prueba, deployea)
-	3.- cobral lo cualto mensual y proceso de facturacion
+	4.- cobral lo cualto mensual y proceso de facturacion
 
 </oliver>
 
